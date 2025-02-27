@@ -21,18 +21,21 @@ task.
 We use Regular Expressions (REGEX) to filter and extract basic information 
 (e.g., order IDs, timestamps) before feeding data into BERT.
 This step improves efficiency by reducing unnecessary processing.
+
 2️⃣ Fine-Tuning BERT on Synthetic Data:
 
 A synthetic dataset was created to train BERT, simulating real kitchen 
 logs.
 The fine-tuning process helps BERT recognize food items, actions, and 
 commands commonly used in a restaurant setting.
+
 3️⃣ Testing with Synthetic Data:
 
 Another synthetic dataset was generated to test model performance and 
 accuracy.
 This ensures the model properly extracts and structures kitchen log 
 information.
+
 4️⃣ Deploying the Model with FastAPI:
 
 A FastAPI-based REST API was implemented to provide an easy-to-use 
