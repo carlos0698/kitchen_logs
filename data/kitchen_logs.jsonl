@@ -1,0 +1,500 @@
+{"text": "salad cleaned - Order #9982 - 4:50 AM", "output": {"order_id": "9982", "action": "cleaned", "food": "salad", "time": "4:50 AM"}}
+{"text": "Order #5073 cleaned the fries at 8:43 AM.", "output": {"order_id": "5073", "action": "cleaned", "food": "fries", "time": "8:43 AM"}}
+{"text": "1:29 AM | Order #7138 | pizza got loaded.", "output": {"order_id": "7138", "action": "loaded", "food": "pizza", "time": "1:29 AM"}}
+{"text": "Order #5176 -> 7:39 AM -> pizza loaded.", "output": {"order_id": "5176", "action": "loaded", "food": "pizza", "time": "7:39 AM"}}
+{"text": "At 9:31 AM, the burger was cleaned (Order #2463).", "output": {"order_id": "2463", "action": "cleaned", "food": "burger", "time": "9:31 AM"}}
+{"text": "At 4:37 AM, the salad was cleaned (Order #4952).", "output": {"order_id": "4952", "action": "cleaned", "food": "salad", "time": "4:37 AM"}}
+{"text": "Order #1964 loaded the pizza at 6:40 AM.", "output": {"order_id": "1964", "action": "loaded", "food": "pizza", "time": "6:40 AM"}}
+{"text": "Order #7138 cleaned the salad at 4:53 AM.", "output": {"order_id": "7138", "action": "cleaned", "food": "salad", "time": "4:53 AM"}}
+{"text": "Order #2676 cleaned the fries at 12:54 PM.", "output": {"order_id": "2676", "action": "cleaned", "food": "fries", "time": "12:54 PM"}}
+{"text": "At 4:59 PM, the fries was refilled (Order #5288).", "output": {"order_id": "5288", "action": "refilled", "food": "fries", "time": "4:59 PM"}}
+{"text": "9:57 AM | Order #3323 | burger got cleaned.", "output": {"order_id": "3323", "action": "cleaned", "food": "burger", "time": "9:57 AM"}}
+{"text": "12:26 PM | Order #7282 | soda got loaded.", "output": {"order_id": "7282", "action": "loaded", "food": "soda", "time": "12:26 PM"}}
+{"text": "coffee refilled - Order #4952 - 4:17 AM", "output": {"order_id": "4952", "action": "refilled", "food": "coffee", "time": "4:17 AM"}}
+{"text": "At 1:38 PM, the soda was cleaned (Order #7302).", "output": {"order_id": "7302", "action": "cleaned", "food": "soda", "time": "1:38 PM"}}
+{"text": "At 2:23 PM, the pizza was loaded (Order #9314).", "output": {"order_id": "9314", "action": "loaded", "food": "pizza", "time": "2:23 PM"}}
+{"text": "At 6:13 AM, the salad was refilled (Order #3965).", "output": {"order_id": "3965", "action": "refilled", "food": "salad", "time": "6:13 AM"}}
+{"text": "10:17 PM | Order #9653 | soda got loaded.", "output": {"order_id": "9653", "action": "loaded", "food": "soda", "time": "10:17 PM"}}
+{"text": "11:24 AM | Order #3097 | pizza got refilled.", "output": {"order_id": "3097", "action": "refilled", "food": "pizza", "time": "11:24 AM"}}
+{"text": "burger cleaned - Order #2973 - 4:45 PM", "output": {"order_id": "2973", "action": "cleaned", "food": "burger", "time": "4:45 PM"}}
+{"text": "Order #3209 -> 1:59 PM -> fries cleaned.", "output": {"order_id": "3209", "action": "cleaned", "food": "fries", "time": "1:59 PM"}}
+{"text": "At 3:33 PM, the burger was loaded (Order #4322).", "output": {"order_id": "4322", "action": "loaded", "food": "burger", "time": "3:33 PM"}}
+{"text": "Order #8276 cleaned the salad at 12:32 PM.", "output": {"order_id": "8276", "action": "cleaned", "food": "salad", "time": "12:32 PM"}}
+{"text": "4:37 AM | Order #1347 | pizza got cleaned.", "output": {"order_id": "1347", "action": "cleaned", "food": "pizza", "time": "4:37 AM"}}
+{"text": "Order #4236 -> 10:26 AM -> pizza refilled.", "output": {"order_id": "4236", "action": "refilled", "food": "pizza", "time": "10:26 AM"}}
+{"text": "At 3:55 AM, the coffee was loaded (Order #2200).", "output": {"order_id": "2200", "action": "loaded", "food": "coffee", "time": "3:55 AM"}}
+{"text": "At 9:31 AM, the soda was cleaned (Order #7356).", "output": {"order_id": "7356", "action": "cleaned", "food": "soda", "time": "9:31 AM"}}
+{"text": "pizza loaded - Order #3392 - 1:38 PM", "output": {"order_id": "3392", "action": "loaded", "food": "pizza", "time": "1:38 PM"}}
+{"text": "7:23 PM | Order #2973 | coffee got refilled.", "output": {"order_id": "2973", "action": "refilled", "food": "coffee", "time": "7:23 PM"}}
+{"text": "Order #9904 -> 5:35 AM -> burger refilled.", "output": {"order_id": "9904", "action": "refilled", "food": "burger", "time": "5:35 AM"}}
+{"text": "Order #6423 cleaned the pizza at 10:28 PM.", "output": {"order_id": "6423", "action": "cleaned", "food": "pizza", "time": "10:28 PM"}}
+{"text": "At 7:31 AM, the burger was cleaned (Order #8728).", "output": {"order_id": "8728", "action": "cleaned", "food": "burger", "time": "7:31 AM"}}
+{"text": "At 4:55 PM, the salad was loaded (Order #4269).", "output": {"order_id": "4269", "action": "loaded", "food": "salad", "time": "4:55 PM"}}
+{"text": "Order #3804 cleaned the coffee at 10:26 AM.", "output": {"order_id": "3804", "action": "cleaned", "food": "coffee", "time": "10:26 AM"}}
+{"text": "At 9:11 AM, the soda was refilled (Order #4269).", "output": {"order_id": "4269", "action": "refilled", "food": "soda", "time": "9:11 AM"}}
+{"text": "At 5:13 AM, the coffee was refilled (Order #1949).", "output": {"order_id": "1949", "action": "refilled", "food": "coffee", "time": "5:13 AM"}}
+{"text": "fries loaded - Order #9684 - 1:38 PM", "output": {"order_id": "9684", "action": "loaded", "food": "fries", "time": "1:38 PM"}}
+{"text": "Order #8202 -> 9:22 PM -> coffee loaded.", "output": {"order_id": "8202", "action": "loaded", "food": "coffee", "time": "9:22 PM"}}
+{"text": "12:54 PM | Order #6777 | salad got refilled.", "output": {"order_id": "6777", "action": "refilled", "food": "salad", "time": "12:54 PM"}}
+{"text": "11:55 AM | Order #9314 | burger got loaded.", "output": {"order_id": "9314", "action": "loaded", "food": "burger", "time": "11:55 AM"}}
+{"text": "At 6:40 AM, the burger was cleaned (Order #7214).", "output": {"order_id": "7214", "action": "cleaned", "food": "burger", "time": "6:40 AM"}}
+{"text": "4:18 AM | Order #1795 | salad got refilled.", "output": {"order_id": "1795", "action": "refilled", "food": "salad", "time": "4:18 AM"}}
+{"text": "fries loaded - Order #1949 - 4:44 PM", "output": {"order_id": "1949", "action": "loaded", "food": "fries", "time": "4:44 PM"}}
+{"text": "At 10:28 PM, the pizza was refilled (Order #7862).", "output": {"order_id": "7862", "action": "refilled", "food": "pizza", "time": "10:28 PM"}}
+{"text": "6:53 PM | Order #9221 | soda got refilled.", "output": {"order_id": "9221", "action": "refilled", "food": "soda", "time": "6:53 PM"}}
+{"text": "At 10:20 PM, the salad was loaded (Order #1768).", "output": {"order_id": "1768", "action": "loaded", "food": "salad", "time": "10:20 PM"}}
+{"text": "At 9:13 PM, the pizza was loaded (Order #7356).", "output": {"order_id": "7356", "action": "loaded", "food": "pizza", "time": "9:13 PM"}}
+{"text": "Order #2637 cleaned the coffee at 1:29 AM.", "output": {"order_id": "2637", "action": "cleaned", "food": "coffee", "time": "1:29 AM"}}
+{"text": "Order #2463 refilled the salad at 8:53 AM.", "output": {"order_id": "2463", "action": "refilled", "food": "salad", "time": "8:53 AM"}}
+{"text": "4:18 AM | Order #1329 | salad got cleaned.", "output": {"order_id": "1329", "action": "cleaned", "food": "salad", "time": "4:18 AM"}}
+{"text": "8:53 AM | Order #9358 | coffee got refilled.", "output": {"order_id": "9358", "action": "refilled", "food": "coffee", "time": "8:53 AM"}}
+{"text": "At 4:26 AM, the fries was cleaned (Order #5222).", "output": {"order_id": "5222", "action": "cleaned", "food": "fries", "time": "4:26 AM"}}
+{"text": "At 5:13 AM, the fries was cleaned (Order #8202).", "output": {"order_id": "8202", "action": "cleaned", "food": "fries", "time": "5:13 AM"}}
+{"text": "pizza refilled - Order #9982 - 10:20 PM", "output": {"order_id": "9982", "action": "refilled", "food": "pizza", "time": "10:20 PM"}}
+{"text": "soda loaded - Order #4525 - 9:34 AM", "output": {"order_id": "4525", "action": "loaded", "food": "soda", "time": "9:34 AM"}}
+{"text": "10:28 PM | Order #3462 | soda got cleaned.", "output": {"order_id": "3462", "action": "cleaned", "food": "soda", "time": "10:28 PM"}}
+{"text": "pizza loaded - Order #6563 - 9:22 PM", "output": {"order_id": "6563", "action": "loaded", "food": "pizza", "time": "9:22 PM"}}
+{"text": "7:33 AM | Order #9982 | soda got refilled.", "output": {"order_id": "9982", "action": "refilled", "food": "soda", "time": "7:33 AM"}}
+{"text": "coffee refilled - Order #5454 - 7:23 PM", "output": {"order_id": "5454", "action": "refilled", "food": "coffee", "time": "7:23 PM"}}
+{"text": "Order #4236 -> 4:28 AM -> fries refilled.", "output": {"order_id": "4236", "action": "refilled", "food": "fries", "time": "4:28 AM"}}
+{"text": "1:26 AM | Order #7179 | burger got loaded.", "output": {"order_id": "7179", "action": "loaded", "food": "burger", "time": "1:26 AM"}}
+{"text": "At 12:54 PM, the coffee was cleaned (Order #6256).", "output": {"order_id": "6256", "action": "cleaned", "food": "coffee", "time": "12:54 PM"}}
+{"text": "salad loaded - Order #3496 - 4:59 PM", "output": {"order_id": "3496", "action": "loaded", "food": "salad", "time": "4:59 PM"}}
+{"text": "Order #2200 -> 9:57 AM -> burger loaded.", "output": {"order_id": "2200", "action": "loaded", "food": "burger", "time": "9:57 AM"}}
+{"text": "salad refilled - Order #7162 - 12:58 AM", "output": {"order_id": "7162", "action": "refilled", "food": "salad", "time": "12:58 AM"}}
+{"text": "At 2:54 PM, the salad was refilled (Order #9904).", "output": {"order_id": "9904", "action": "refilled", "food": "salad", "time": "2:54 PM"}}
+{"text": "At 4:45 PM, the pizza was loaded (Order #3804).", "output": {"order_id": "3804", "action": "loaded", "food": "pizza", "time": "4:45 PM"}}
+{"text": "1:12 AM | Order #9904 | salad got loaded.", "output": {"order_id": "9904", "action": "loaded", "food": "salad", "time": "1:12 AM"}}
+{"text": "9:57 AM | Order #9160 | burger got refilled.", "output": {"order_id": "9160", "action": "refilled", "food": "burger", "time": "9:57 AM"}}
+{"text": "12:24 AM | Order #3256 | pizza got loaded.", "output": {"order_id": "3256", "action": "loaded", "food": "pizza", "time": "12:24 AM"}}
+{"text": "Order #3804 -> 2:54 PM -> fries cleaned.", "output": {"order_id": "3804", "action": "cleaned", "food": "fries", "time": "2:54 PM"}}
+{"text": "Order #2732 loaded the pizza at 3:55 AM.", "output": {"order_id": "2732", "action": "loaded", "food": "pizza", "time": "3:55 AM"}}
+{"text": "Order #7862 -> 4:18 AM -> soda cleaned.", "output": {"order_id": "7862", "action": "cleaned", "food": "soda", "time": "4:18 AM"}}
+{"text": "At 10:39 AM, the soda was refilled (Order #3496).", "output": {"order_id": "3496", "action": "refilled", "food": "soda", "time": "10:39 AM"}}
+{"text": "Order #7389 -> 7:13 PM -> fries loaded.", "output": {"order_id": "7389", "action": "loaded", "food": "fries", "time": "7:13 PM"}}
+{"text": "Order #6563 loaded the fries at 5:35 AM.", "output": {"order_id": "6563", "action": "loaded", "food": "fries", "time": "5:35 AM"}}
+{"text": "9:13 PM | Order #9155 | burger got loaded.", "output": {"order_id": "9155", "action": "loaded", "food": "burger", "time": "9:13 PM"}}
+{"text": "Order #3256 -> 9:52 PM -> fries refilled.", "output": {"order_id": "3256", "action": "refilled", "food": "fries", "time": "9:52 PM"}}
+{"text": "Order #4236 loaded the pizza at 2:23 PM.", "output": {"order_id": "4236", "action": "loaded", "food": "pizza", "time": "2:23 PM"}}
+{"text": "Order #5288 loaded the soda at 5:13 AM.", "output": {"order_id": "5288", "action": "loaded", "food": "soda", "time": "5:13 AM"}}
+{"text": "At 1:29 AM, the salad was loaded (Order #6918).", "output": {"order_id": "6918", "action": "loaded", "food": "salad", "time": "1:29 AM"}}
+{"text": "At 4:55 PM, the fries was loaded (Order #2163).", "output": {"order_id": "2163", "action": "loaded", "food": "fries", "time": "4:55 PM"}}
+{"text": "1:28 PM | Order #2247 | coffee got loaded.", "output": {"order_id": "2247", "action": "loaded", "food": "coffee", "time": "1:28 PM"}}
+{"text": "Order #3323 -> 4:45 PM -> salad refilled.", "output": {"order_id": "3323", "action": "refilled", "food": "salad", "time": "4:45 PM"}}
+{"text": "coffee loaded - Order #4236 - 6:48 AM", "output": {"order_id": "4236", "action": "loaded", "food": "coffee", "time": "6:48 AM"}}
+{"text": "Order #3684 -> 10:28 PM -> fries loaded.", "output": {"order_id": "3684", "action": "loaded", "food": "fries", "time": "10:28 PM"}}
+{"text": "salad refilled - Order #4611 - 1:38 PM", "output": {"order_id": "4611", "action": "refilled", "food": "salad", "time": "1:38 PM"}}
+{"text": "coffee loaded - Order #5176 - 6:42 PM", "output": {"order_id": "5176", "action": "loaded", "food": "coffee", "time": "6:42 PM"}}
+{"text": "burger loaded - Order #7356 - 9:43 PM", "output": {"order_id": "7356", "action": "loaded", "food": "burger", "time": "9:43 PM"}}
+{"text": "At 9:57 AM, the coffee was refilled (Order #4269).", "output": {"order_id": "4269", "action": "refilled", "food": "coffee", "time": "9:57 AM"}}
+{"text": "At 5:41 AM, the pizza was refilled (Order #8728).", "output": {"order_id": "8728", "action": "refilled", "food": "pizza", "time": "5:41 AM"}}
+{"text": "At 9:22 PM, the burger was cleaned (Order #2637).", "output": {"order_id": "2637", "action": "cleaned", "food": "burger", "time": "9:22 PM"}}
+{"text": "burger refilled - Order #3677 - 6:12 PM", "output": {"order_id": "3677", "action": "refilled", "food": "burger", "time": "6:12 PM"}}
+{"text": "9:15 AM | Order #3694 | soda got loaded.", "output": {"order_id": "3694", "action": "loaded", "food": "soda", "time": "9:15 AM"}}
+{"text": "Order #2973 -> 8:58 AM -> pizza cleaned.", "output": {"order_id": "2973", "action": "cleaned", "food": "pizza", "time": "8:58 AM"}}
+{"text": "9:57 AM | Order #3722 | soda got cleaned.", "output": {"order_id": "3722", "action": "cleaned", "food": "soda", "time": "9:57 AM"}}
+{"text": "Order #8728 cleaned the soda at 1:36 PM.", "output": {"order_id": "8728", "action": "cleaned", "food": "soda", "time": "1:36 PM"}}
+{"text": "Order #4997 -> 12:15 AM -> fries loaded.", "output": {"order_id": "4997", "action": "loaded", "food": "fries", "time": "12:15 AM"}}
+{"text": "Order #1795 refilled the salad at 10:20 PM.", "output": {"order_id": "1795", "action": "refilled", "food": "salad", "time": "10:20 PM"}}
+{"text": "At 9:15 AM, the salad was cleaned (Order #1432).", "output": {"order_id": "1432", "action": "cleaned", "food": "salad", "time": "9:15 AM"}}
+{"text": "pizza cleaned - Order #7241 - 1:59 PM", "output": {"order_id": "7241", "action": "cleaned", "food": "pizza", "time": "1:59 PM"}}
+{"text": "8:53 AM | Order #5073 | salad got cleaned.", "output": {"order_id": "5073", "action": "cleaned", "food": "salad", "time": "8:53 AM"}}
+{"text": "At 9:57 AM, the salad was refilled (Order #4952).", "output": {"order_id": "4952", "action": "refilled", "food": "salad", "time": "9:57 AM"}}
+{"text": "1:36 PM | Order #8728 | pizza got refilled.", "output": {"order_id": "8728", "action": "refilled", "food": "pizza", "time": "1:36 PM"}}
+{"text": "9:34 AM | Order #4525 | burger got loaded.", "output": {"order_id": "4525", "action": "loaded", "food": "burger", "time": "9:34 AM"}}
+{"text": "coffee refilled - Order #1795 - 9:26 PM", "output": {"order_id": "1795", "action": "refilled", "food": "coffee", "time": "9:26 PM"}}
+{"text": "Order #4269 -> 10:26 AM -> pizza refilled.", "output": {"order_id": "4269", "action": "refilled", "food": "pizza", "time": "10:26 AM"}}
+{"text": "fries cleaned - Order #3496 - 9:13 PM", "output": {"order_id": "3496", "action": "cleaned", "food": "fries", "time": "9:13 PM"}}
+{"text": "Order #1347 cleaned the coffee at 4:59 PM.", "output": {"order_id": "1347", "action": "cleaned", "food": "coffee", "time": "4:59 PM"}}
+{"text": "At 10:16 AM, the salad was cleaned (Order #6758).", "output": {"order_id": "6758", "action": "cleaned", "food": "salad", "time": "10:16 AM"}}
+{"text": "6:18 PM | Order #9155 | soda got cleaned.", "output": {"order_id": "9155", "action": "cleaned", "food": "soda", "time": "6:18 PM"}}
+{"text": "Order #3677 cleaned the soda at 10:28 PM.", "output": {"order_id": "3677", "action": "cleaned", "food": "soda", "time": "10:28 PM"}}
+{"text": "At 4:50 AM, the soda was refilled (Order #4006).", "output": {"order_id": "4006", "action": "refilled", "food": "soda", "time": "4:50 AM"}}
+{"text": "Order #5183 -> 1:36 PM -> burger refilled.", "output": {"order_id": "5183", "action": "refilled", "food": "burger", "time": "1:36 PM"}}
+{"text": "Order #3713 -> 8:53 AM -> pizza loaded.", "output": {"order_id": "3713", "action": "loaded", "food": "pizza", "time": "8:53 AM"}}
+{"text": "salad cleaned - Order #1517 - 4:55 PM", "output": {"order_id": "1517", "action": "cleaned", "food": "salad", "time": "4:55 PM"}}
+{"text": "5:13 AM | Order #8310 | coffee got refilled.", "output": {"order_id": "8310", "action": "refilled", "food": "coffee", "time": "5:13 AM"}}
+{"text": "Order #7389 -> 5:18 AM -> salad refilled.", "output": {"order_id": "7389", "action": "refilled", "food": "salad", "time": "5:18 AM"}}
+{"text": "Order #3392 -> 8:37 AM -> soda cleaned.", "output": {"order_id": "3392", "action": "cleaned", "food": "soda", "time": "8:37 AM"}}
+{"text": "Order #2732 -> 2:54 PM -> soda refilled.", "output": {"order_id": "2732", "action": "refilled", "food": "soda", "time": "2:54 PM"}}
+{"text": "soda refilled - Order #3713 - 2:23 PM", "output": {"order_id": "3713", "action": "refilled", "food": "soda", "time": "2:23 PM"}}
+{"text": "At 9:22 PM, the pizza was loaded (Order #2200).", "output": {"order_id": "2200", "action": "loaded", "food": "pizza", "time": "9:22 PM"}}
+{"text": "5:49 PM | Order #7862 | salad got refilled.", "output": {"order_id": "7862", "action": "refilled", "food": "salad", "time": "5:49 PM"}}
+{"text": "Order #5183 cleaned the soda at 1:38 PM.", "output": {"order_id": "5183", "action": "cleaned", "food": "soda", "time": "1:38 PM"}}
+{"text": "10:33 PM | Order #5087 | coffee got cleaned.", "output": {"order_id": "5087", "action": "cleaned", "food": "coffee", "time": "10:33 PM"}}
+{"text": "Order #3256 -> 7:31 AM -> salad loaded.", "output": {"order_id": "3256", "action": "loaded", "food": "salad", "time": "7:31 AM"}}
+{"text": "burger cleaned - Order #1432 - 4:58 PM", "output": {"order_id": "1432", "action": "cleaned", "food": "burger", "time": "4:58 PM"}}
+{"text": "11:16 AM | Order #3684 | pizza got refilled.", "output": {"order_id": "3684", "action": "refilled", "food": "pizza", "time": "11:16 AM"}}
+{"text": "4:55 PM | Order #1964 | salad got loaded.", "output": {"order_id": "1964", "action": "loaded", "food": "salad", "time": "4:55 PM"}}
+{"text": "Order #2463 -> 1:36 PM -> fries cleaned.", "output": {"order_id": "2463", "action": "cleaned", "food": "fries", "time": "1:36 PM"}}
+{"text": "10:39 AM | Order #2163 | pizza got refilled.", "output": {"order_id": "2163", "action": "refilled", "food": "pizza", "time": "10:39 AM"}}
+{"text": "2:34 AM | Order #8276 | pizza got refilled.", "output": {"order_id": "8276", "action": "refilled", "food": "pizza", "time": "2:34 AM"}}
+{"text": "Order #6423 cleaned the salad at 6:12 PM.", "output": {"order_id": "6423", "action": "cleaned", "food": "salad", "time": "6:12 PM"}}
+{"text": "Order #1560 -> 7:41 AM -> fries loaded.", "output": {"order_id": "1560", "action": "loaded", "food": "fries", "time": "7:41 AM"}}
+{"text": "Order #3256 -> 4:26 AM -> coffee loaded.", "output": {"order_id": "3256", "action": "loaded", "food": "coffee", "time": "4:26 AM"}}
+{"text": "4:50 AM | Order #9314 | coffee got cleaned.", "output": {"order_id": "9314", "action": "cleaned", "food": "coffee", "time": "4:50 AM"}}
+{"text": "At 4:17 AM, the salad was loaded (Order #8276).", "output": {"order_id": "8276", "action": "loaded", "food": "salad", "time": "4:17 AM"}}
+{"text": "At 12:32 PM, the fries was refilled (Order #7862).", "output": {"order_id": "7862", "action": "refilled", "food": "fries", "time": "12:32 PM"}}
+{"text": "burger refilled - Order #7302 - 11:41 AM", "output": {"order_id": "7302", "action": "refilled", "food": "burger", "time": "11:41 AM"}}
+{"text": "Order #3677 cleaned the salad at 1:12 AM.", "output": {"order_id": "3677", "action": "cleaned", "food": "salad", "time": "1:12 AM"}}
+{"text": "Order #5105 -> 2:54 PM -> soda refilled.", "output": {"order_id": "5105", "action": "refilled", "food": "soda", "time": "2:54 PM"}}
+{"text": "7:33 AM | Order #4006 | coffee got refilled.", "output": {"order_id": "4006", "action": "refilled", "food": "coffee", "time": "7:33 AM"}}
+{"text": "1:36 PM | Order #2200 | fries got loaded.", "output": {"order_id": "2200", "action": "loaded", "food": "fries", "time": "1:36 PM"}}
+{"text": "Order #6758 -> 9:22 PM -> burger refilled.", "output": {"order_id": "6758", "action": "refilled", "food": "burger", "time": "9:22 PM"}}
+{"text": "4:55 PM | Order #9904 | burger got cleaned.", "output": {"order_id": "9904", "action": "cleaned", "food": "burger", "time": "4:55 PM"}}
+{"text": "Order #1964 -> 4:37 AM -> soda cleaned.", "output": {"order_id": "1964", "action": "cleaned", "food": "soda", "time": "4:37 AM"}}
+{"text": "Order #2800 cleaned the burger at 4:55 PM.", "output": {"order_id": "2800", "action": "cleaned", "food": "burger", "time": "4:55 PM"}}
+{"text": "9:15 AM | Order #3804 | burger got refilled.", "output": {"order_id": "3804", "action": "refilled", "food": "burger", "time": "9:15 AM"}}
+{"text": "Order #1949 refilled the pizza at 7:31 AM.", "output": {"order_id": "1949", "action": "refilled", "food": "pizza", "time": "7:31 AM"}}
+{"text": "Order #3256 -> 4:58 PM -> coffee refilled.", "output": {"order_id": "3256", "action": "refilled", "food": "coffee", "time": "4:58 PM"}}
+{"text": "4:29 PM | Order #6256 | pizza got loaded.", "output": {"order_id": "6256", "action": "loaded", "food": "pizza", "time": "4:29 PM"}}
+{"text": "salad refilled - Order #2247 - 9:57 AM", "output": {"order_id": "2247", "action": "refilled", "food": "salad", "time": "9:57 AM"}}
+{"text": "At 9:13 PM, the fries was loaded (Order #2200).", "output": {"order_id": "2200", "action": "loaded", "food": "fries", "time": "9:13 PM"}}
+{"text": "At 11:55 AM, the burger was loaded (Order #3496).", "output": {"order_id": "3496", "action": "loaded", "food": "burger", "time": "11:55 AM"}}
+{"text": "At 4:26 AM, the soda was loaded (Order #9653).", "output": {"order_id": "9653", "action": "loaded", "food": "soda", "time": "4:26 AM"}}
+{"text": "1:28 PM | Order #6563 | salad got cleaned.", "output": {"order_id": "6563", "action": "cleaned", "food": "salad", "time": "1:28 PM"}}
+{"text": "At 4:44 PM, the fries was loaded (Order #1329).", "output": {"order_id": "1329", "action": "loaded", "food": "fries", "time": "4:44 PM"}}
+{"text": "Order #3347 cleaned the burger at 6:13 AM.", "output": {"order_id": "3347", "action": "cleaned", "food": "burger", "time": "6:13 AM"}}
+{"text": "fries loaded - Order #5716 - 9:57 AM", "output": {"order_id": "5716", "action": "loaded", "food": "fries", "time": "9:57 AM"}}
+{"text": "5:49 PM | Order #2637 | burger got loaded.", "output": {"order_id": "2637", "action": "loaded", "food": "burger", "time": "5:49 PM"}}
+{"text": "1:22 AM | Order #6423 | coffee got loaded.", "output": {"order_id": "6423", "action": "loaded", "food": "coffee", "time": "1:22 AM"}}
+{"text": "1:15 PM | Order #2637 | salad got refilled.", "output": {"order_id": "2637", "action": "refilled", "food": "salad", "time": "1:15 PM"}}
+{"text": "At 10:59 PM, the fries was cleaned (Order #6628).", "output": {"order_id": "6628", "action": "cleaned", "food": "fries", "time": "10:59 PM"}}
+{"text": "Order #7162 refilled the pizza at 9:31 AM.", "output": {"order_id": "7162", "action": "refilled", "food": "pizza", "time": "9:31 AM"}}
+{"text": "Order #5073 refilled the salad at 5:47 AM.", "output": {"order_id": "5073", "action": "refilled", "food": "salad", "time": "5:47 AM"}}
+{"text": "Order #6509 refilled the salad at 10:16 AM.", "output": {"order_id": "6509", "action": "refilled", "food": "salad", "time": "10:16 AM"}}
+{"text": "Order #9904 cleaned the soda at 10:33 PM.", "output": {"order_id": "9904", "action": "cleaned", "food": "soda", "time": "10:33 PM"}}
+{"text": "1:15 PM | Order #1329 | coffee got cleaned.", "output": {"order_id": "1329", "action": "cleaned", "food": "coffee", "time": "1:15 PM"}}
+{"text": "At 12:32 PM, the soda was refilled (Order #9155).", "output": {"order_id": "9155", "action": "refilled", "food": "soda", "time": "12:32 PM"}}
+{"text": "Order #7241 loaded the soda at 10:17 PM.", "output": {"order_id": "7241", "action": "loaded", "food": "soda", "time": "10:17 PM"}}
+{"text": "Order #8935 cleaned the soda at 7:33 AM.", "output": {"order_id": "8935", "action": "cleaned", "food": "soda", "time": "7:33 AM"}}
+{"text": "1:38 PM | Order #7162 | fries got loaded.", "output": {"order_id": "7162", "action": "loaded", "food": "fries", "time": "1:38 PM"}}
+{"text": "At 6:45 PM, the salad was cleaned (Order #8276).", "output": {"order_id": "8276", "action": "cleaned", "food": "salad", "time": "6:45 PM"}}
+{"text": "soda loaded - Order #9653 - 9:15 AM", "output": {"order_id": "9653", "action": "loaded", "food": "soda", "time": "9:15 AM"}}
+{"text": "At 9:43 PM, the burger was loaded (Order #2732).", "output": {"order_id": "2732", "action": "loaded", "food": "burger", "time": "9:43 PM"}}
+{"text": "Order #7484 loaded the fries at 9:31 AM.", "output": {"order_id": "7484", "action": "loaded", "food": "fries", "time": "9:31 AM"}}
+{"text": "At 4:45 PM, the soda was loaded (Order #4461).", "output": {"order_id": "4461", "action": "loaded", "food": "soda", "time": "4:45 PM"}}
+{"text": "At 7:41 AM, the soda was loaded (Order #5087).", "output": {"order_id": "5087", "action": "loaded", "food": "soda", "time": "7:41 AM"}}
+{"text": "Order #6777 loaded the salad at 4:55 PM.", "output": {"order_id": "6777", "action": "loaded", "food": "salad", "time": "4:55 PM"}}
+{"text": "Order #7241 -> 9:11 AM -> soda loaded.", "output": {"order_id": "7241", "action": "loaded", "food": "soda", "time": "9:11 AM"}}
+{"text": "Order #7114 cleaned the pizza at 9:52 PM.", "output": {"order_id": "7114", "action": "cleaned", "food": "pizza", "time": "9:52 PM"}}
+{"text": "coffee loaded - Order #3323 - 10:39 AM", "output": {"order_id": "3323", "action": "loaded", "food": "coffee", "time": "10:39 AM"}}
+{"text": "5:47 AM | Order #7380 | burger got loaded.", "output": {"order_id": "7380", "action": "loaded", "food": "burger", "time": "5:47 AM"}}
+{"text": "Order #4525 refilled the coffee at 8:53 AM.", "output": {"order_id": "4525", "action": "refilled", "food": "coffee", "time": "8:53 AM"}}
+{"text": "Order #1949 -> 6:32 AM -> burger loaded.", "output": {"order_id": "1949", "action": "loaded", "food": "burger", "time": "6:32 AM"}}
+{"text": "At 12:58 AM, the salad was cleaned (Order #7380).", "output": {"order_id": "7380", "action": "cleaned", "food": "salad", "time": "12:58 AM"}}
+{"text": "Order #8276 -> 7:41 AM -> fries cleaned.", "output": {"order_id": "8276", "action": "cleaned", "food": "fries", "time": "7:41 AM"}}
+{"text": "burger refilled - Order #9221 - 12:11 AM", "output": {"order_id": "9221", "action": "refilled", "food": "burger", "time": "12:11 AM"}}
+{"text": "Order #6628 -> 3:30 AM -> salad cleaned.", "output": {"order_id": "6628", "action": "cleaned", "food": "salad", "time": "3:30 AM"}}
+{"text": "Order #2637 refilled the salad at 6:42 PM.", "output": {"order_id": "2637", "action": "refilled", "food": "salad", "time": "6:42 PM"}}
+{"text": "Order #4952 -> 6:45 PM -> burger refilled.", "output": {"order_id": "4952", "action": "refilled", "food": "burger", "time": "6:45 PM"}}
+{"text": "coffee cleaned - Order #9160 - 12:11 AM", "output": {"order_id": "9160", "action": "cleaned", "food": "coffee", "time": "12:11 AM"}}
+{"text": "Order #2973 -> 4:43 AM -> pizza loaded.", "output": {"order_id": "2973", "action": "loaded", "food": "pizza", "time": "4:43 AM"}}
+{"text": "At 12:26 PM, the salad was loaded (Order #4536).", "output": {"order_id": "4536", "action": "loaded", "food": "salad", "time": "12:26 PM"}}
+{"text": "soda loaded - Order #4952 - 2:23 PM", "output": {"order_id": "4952", "action": "loaded", "food": "soda", "time": "2:23 PM"}}
+{"text": "Order #7380 -> 10:34 AM -> pizza loaded.", "output": {"order_id": "7380", "action": "loaded", "food": "pizza", "time": "10:34 AM"}}
+{"text": "Order #4236 -> 5:41 AM -> coffee cleaned.", "output": {"order_id": "4236", "action": "cleaned", "food": "coffee", "time": "5:41 AM"}}
+{"text": "Order #3804 -> 1:15 PM -> fries cleaned.", "output": {"order_id": "3804", "action": "cleaned", "food": "fries", "time": "1:15 PM"}}
+{"text": "At 11:16 AM, the fries was refilled (Order #9358).", "output": {"order_id": "9358", "action": "refilled", "food": "fries", "time": "11:16 AM"}}
+{"text": "12:15 AM | Order #1347 | soda got cleaned.", "output": {"order_id": "1347", "action": "cleaned", "food": "soda", "time": "12:15 AM"}}
+{"text": "fries loaded - Order #7243 - 4:45 PM", "output": {"order_id": "7243", "action": "loaded", "food": "fries", "time": "4:45 PM"}}
+{"text": "salad refilled - Order #9160 - 11:55 AM", "output": {"order_id": "9160", "action": "refilled", "food": "salad", "time": "11:55 AM"}}
+{"text": "Order #2247 refilled the pizza at 9:13 PM.", "output": {"order_id": "2247", "action": "refilled", "food": "pizza", "time": "9:13 PM"}}
+{"text": "Order #4536 cleaned the fries at 10:34 AM.", "output": {"order_id": "4536", "action": "cleaned", "food": "fries", "time": "10:34 AM"}}
+{"text": "10:29 AM | Order #2200 | burger got loaded.", "output": {"order_id": "2200", "action": "loaded", "food": "burger", "time": "10:29 AM"}}
+{"text": "Order #3392 -> 4:44 PM -> fries cleaned.", "output": {"order_id": "3392", "action": "cleaned", "food": "fries", "time": "4:44 PM"}}
+{"text": "Order #2105 refilled the pizza at 2:23 PM.", "output": {"order_id": "2105", "action": "refilled", "food": "pizza", "time": "2:23 PM"}}
+{"text": "Order #3965 -> 8:58 AM -> soda cleaned.", "output": {"order_id": "3965", "action": "cleaned", "food": "soda", "time": "8:58 AM"}}
+{"text": "Order #4269 loaded the pizza at 1:38 PM.", "output": {"order_id": "4269", "action": "loaded", "food": "pizza", "time": "1:38 PM"}}
+{"text": "Order #6628 cleaned the burger at 1:38 PM.", "output": {"order_id": "6628", "action": "cleaned", "food": "burger", "time": "1:38 PM"}}
+{"text": "4:28 AM | Order #9358 | burger got cleaned.", "output": {"order_id": "9358", "action": "cleaned", "food": "burger", "time": "4:28 AM"}}
+{"text": "Order #7243 -> 5:42 AM -> salad cleaned.", "output": {"order_id": "7243", "action": "cleaned", "food": "salad", "time": "5:42 AM"}}
+{"text": "7:23 PM | Order #2247 | pizza got refilled.", "output": {"order_id": "2247", "action": "refilled", "food": "pizza", "time": "7:23 PM"}}
+{"text": "Order #6628 -> 10:33 PM -> fries loaded.", "output": {"order_id": "6628", "action": "loaded", "food": "fries", "time": "10:33 PM"}}
+{"text": "At 1:22 AM, the fries was refilled (Order #5183).", "output": {"order_id": "5183", "action": "refilled", "food": "fries", "time": "1:22 AM"}}
+{"text": "At 4:28 AM, the burger was refilled (Order #8310).", "output": {"order_id": "8310", "action": "refilled", "food": "burger", "time": "4:28 AM"}}
+{"text": "Order #4236 -> 4:55 PM -> salad cleaned.", "output": {"order_id": "4236", "action": "cleaned", "food": "salad", "time": "4:55 PM"}}
+{"text": "At 12:26 PM, the fries was refilled (Order #9314).", "output": {"order_id": "9314", "action": "refilled", "food": "fries", "time": "12:26 PM"}}
+{"text": "At 10:33 PM, the pizza was cleaned (Order #1347).", "output": {"order_id": "1347", "action": "cleaned", "food": "pizza", "time": "10:33 PM"}}
+{"text": "Order #3677 refilled the coffee at 7:13 PM.", "output": {"order_id": "3677", "action": "refilled", "food": "coffee", "time": "7:13 PM"}}
+{"text": "At 10:26 AM, the salad was loaded (Order #6509).", "output": {"order_id": "6509", "action": "loaded", "food": "salad", "time": "10:26 AM"}}
+{"text": "Order #3684 cleaned the pizza at 4:49 AM.", "output": {"order_id": "3684", "action": "cleaned", "food": "pizza", "time": "4:49 AM"}}
+{"text": "Order #2200 -> 8:37 AM -> coffee cleaned.", "output": {"order_id": "2200", "action": "cleaned", "food": "coffee", "time": "8:37 AM"}}
+{"text": "Order #4727 -> 10:16 AM -> pizza refilled.", "output": {"order_id": "4727", "action": "refilled", "food": "pizza", "time": "10:16 AM"}}
+{"text": "10:29 AM | Order #8276 | burger got loaded.", "output": {"order_id": "8276", "action": "loaded", "food": "burger", "time": "10:29 AM"}}
+{"text": "At 4:53 AM, the soda was loaded (Order #1964).", "output": {"order_id": "1964", "action": "loaded", "food": "soda", "time": "4:53 AM"}}
+{"text": "At 4:55 PM, the coffee was cleaned (Order #3392).", "output": {"order_id": "3392", "action": "cleaned", "food": "coffee", "time": "4:55 PM"}}
+{"text": "Order #5222 cleaned the fries at 1:36 PM.", "output": {"order_id": "5222", "action": "cleaned", "food": "fries", "time": "1:36 PM"}}
+{"text": "fries refilled - Order #1949 - 4:43 AM", "output": {"order_id": "1949", "action": "refilled", "food": "fries", "time": "4:43 AM"}}
+{"text": "Order #6256 refilled the coffee at 1:12 AM.", "output": {"order_id": "6256", "action": "refilled", "food": "coffee", "time": "1:12 AM"}}
+{"text": "5:47 PM | Order #9358 | pizza got loaded.", "output": {"order_id": "9358", "action": "loaded", "food": "pizza", "time": "5:47 PM"}}
+{"text": "Order #8276 cleaned the salad at 2:34 AM.", "output": {"order_id": "8276", "action": "cleaned", "food": "salad", "time": "2:34 AM"}}
+{"text": "Order #7380 loaded the coffee at 1:29 AM.", "output": {"order_id": "7380", "action": "loaded", "food": "coffee", "time": "1:29 AM"}}
+{"text": "Order #1432 loaded the fries at 10:34 AM.", "output": {"order_id": "1432", "action": "loaded", "food": "fries", "time": "10:34 AM"}}
+{"text": "At 6:42 PM, the burger was refilled (Order #7114).", "output": {"order_id": "7114", "action": "refilled", "food": "burger", "time": "6:42 PM"}}
+{"text": "Order #3209 refilled the burger at 10:17 PM.", "output": {"order_id": "3209", "action": "refilled", "food": "burger", "time": "10:17 PM"}}
+{"text": "Order #8218 -> 5:42 AM -> soda cleaned.", "output": {"order_id": "8218", "action": "cleaned", "food": "soda", "time": "5:42 AM"}}
+{"text": "At 5:46 AM, the soda was cleaned (Order #4006).", "output": {"order_id": "4006", "action": "cleaned", "food": "soda", "time": "5:46 AM"}}
+{"text": "Order #2676 cleaned the soda at 6:48 AM.", "output": {"order_id": "2676", "action": "cleaned", "food": "soda", "time": "6:48 AM"}}
+{"text": "1:22 AM | Order #3836 | burger got refilled.", "output": {"order_id": "3836", "action": "refilled", "food": "burger", "time": "1:22 AM"}}
+{"text": "soda loaded - Order #1432 - 2:23 PM", "output": {"order_id": "1432", "action": "loaded", "food": "soda", "time": "2:23 PM"}}
+{"text": "At 4:43 AM, the soda was cleaned (Order #2637).", "output": {"order_id": "2637", "action": "cleaned", "food": "soda", "time": "4:43 AM"}}
+{"text": "Order #3392 loaded the salad at 7:23 PM.", "output": {"order_id": "3392", "action": "loaded", "food": "salad", "time": "7:23 PM"}}
+{"text": "At 10:33 PM, the pizza was refilled (Order #7282).", "output": {"order_id": "7282", "action": "refilled", "food": "pizza", "time": "10:33 PM"}}
+{"text": "At 4:53 AM, the pizza was cleaned (Order #6563).", "output": {"order_id": "6563", "action": "cleaned", "food": "pizza", "time": "4:53 AM"}}
+{"text": "Order #9358 refilled the pizza at 11:24 AM.", "output": {"order_id": "9358", "action": "refilled", "food": "pizza", "time": "11:24 AM"}}
+{"text": "At 8:58 AM, the burger was cleaned (Order #2463).", "output": {"order_id": "2463", "action": "cleaned", "food": "burger", "time": "8:58 AM"}}
+{"text": "Order #8549 loaded the salad at 4:37 AM.", "output": {"order_id": "8549", "action": "loaded", "food": "salad", "time": "4:37 AM"}}
+{"text": "10:17 PM | Order #6509 | coffee got refilled.", "output": {"order_id": "6509", "action": "refilled", "food": "coffee", "time": "10:17 PM"}}
+{"text": "Order #4611 cleaned the soda at 6:40 AM.", "output": {"order_id": "4611", "action": "cleaned", "food": "soda", "time": "6:40 AM"}}
+{"text": "10:20 PM | Order #6509 | pizza got loaded.", "output": {"order_id": "6509", "action": "loaded", "food": "pizza", "time": "10:20 PM"}}
+{"text": "At 2:34 AM, the pizza was loaded (Order #3392).", "output": {"order_id": "3392", "action": "loaded", "food": "pizza", "time": "2:34 AM"}}
+{"text": "4:29 PM | Order #8728 | salad got loaded.", "output": {"order_id": "8728", "action": "loaded", "food": "salad", "time": "4:29 PM"}}
+{"text": "At 3:55 AM, the coffee was loaded (Order #7114).", "output": {"order_id": "7114", "action": "loaded", "food": "coffee", "time": "3:55 AM"}}
+{"text": "At 6:32 AM, the pizza was loaded (Order #7484).", "output": {"order_id": "7484", "action": "loaded", "food": "pizza", "time": "6:32 AM"}}
+{"text": "salad refilled - Order #9653 - 1:38 PM", "output": {"order_id": "9653", "action": "refilled", "food": "salad", "time": "1:38 PM"}}
+{"text": "7:41 AM | Order #2637 | fries got loaded.", "output": {"order_id": "2637", "action": "loaded", "food": "fries", "time": "7:41 AM"}}
+{"text": "1:46 AM | Order #1795 | coffee got refilled.", "output": {"order_id": "1795", "action": "refilled", "food": "coffee", "time": "1:46 AM"}}
+{"text": "At 1:59 PM, the pizza was loaded (Order #7162).", "output": {"order_id": "7162", "action": "loaded", "food": "pizza", "time": "1:59 PM"}}
+{"text": "salad refilled - Order #8549 - 5:35 AM", "output": {"order_id": "8549", "action": "refilled", "food": "salad", "time": "5:35 AM"}}
+{"text": "1:59 PM | Order #3713 | coffee got loaded.", "output": {"order_id": "3713", "action": "loaded", "food": "coffee", "time": "1:59 PM"}}
+{"text": "Order #9684 loaded the coffee at 2:34 AM.", "output": {"order_id": "9684", "action": "loaded", "food": "coffee", "time": "2:34 AM"}}
+{"text": "Order #7356 cleaned the fries at 1:26 AM.", "output": {"order_id": "7356", "action": "cleaned", "food": "fries", "time": "1:26 AM"}}
+{"text": "fries refilled - Order #7214 - 7:33 AM", "output": {"order_id": "7214", "action": "refilled", "food": "fries", "time": "7:33 AM"}}
+{"text": "coffee refilled - Order #2163 - 1:59 PM", "output": {"order_id": "2163", "action": "refilled", "food": "coffee", "time": "1:59 PM"}}
+{"text": "Order #5087 -> 5:41 AM -> burger cleaned.", "output": {"order_id": "5087", "action": "cleaned", "food": "burger", "time": "5:41 AM"}}
+{"text": "1:46 AM | Order #3836 | burger got cleaned.", "output": {"order_id": "3836", "action": "cleaned", "food": "burger", "time": "1:46 AM"}}
+{"text": "Order #1347 loaded the fries at 6:48 AM.", "output": {"order_id": "1347", "action": "loaded", "food": "fries", "time": "6:48 AM"}}
+{"text": "5:35 AM | Order #9982 | soda got refilled.", "output": {"order_id": "9982", "action": "refilled", "food": "soda", "time": "5:35 AM"}}
+{"text": "Order #7389 -> 4:50 AM -> salad refilled.", "output": {"order_id": "7389", "action": "refilled", "food": "salad", "time": "4:50 AM"}}
+{"text": "salad refilled - Order #3323 - 2:23 PM", "output": {"order_id": "3323", "action": "refilled", "food": "salad", "time": "2:23 PM"}}
+{"text": "Order #7138 cleaned the pizza at 10:20 PM.", "output": {"order_id": "7138", "action": "cleaned", "food": "pizza", "time": "10:20 PM"}}
+{"text": "At 7:23 PM, the salad was cleaned (Order #7862).", "output": {"order_id": "7862", "action": "cleaned", "food": "salad", "time": "7:23 PM"}}
+{"text": "Order #3496 loaded the soda at 11:16 AM.", "output": {"order_id": "3496", "action": "loaded", "food": "soda", "time": "11:16 AM"}}
+{"text": "salad cleaned - Order #5087 - 11:55 AM", "output": {"order_id": "5087", "action": "cleaned", "food": "salad", "time": "11:55 AM"}}
+{"text": "Order #2800 -> 12:24 AM -> coffee loaded.", "output": {"order_id": "2800", "action": "loaded", "food": "coffee", "time": "12:24 AM"}}
+{"text": "At 9:17 PM, the salad was loaded (Order #3836).", "output": {"order_id": "3836", "action": "loaded", "food": "salad", "time": "9:17 PM"}}
+{"text": "burger loaded - Order #9653 - 4:17 AM", "output": {"order_id": "9653", "action": "loaded", "food": "burger", "time": "4:17 AM"}}
+{"text": "1:46 AM | Order #7179 | coffee got cleaned.", "output": {"order_id": "7179", "action": "cleaned", "food": "coffee", "time": "1:46 AM"}}
+{"text": "At 5:49 PM, the salad was refilled (Order #5720).", "output": {"order_id": "5720", "action": "refilled", "food": "salad", "time": "5:49 PM"}}
+{"text": "Order #2732 -> 5:46 AM -> fries refilled.", "output": {"order_id": "2732", "action": "refilled", "food": "fries", "time": "5:46 AM"}}
+{"text": "salad cleaned - Order #4536 - 5:35 AM", "output": {"order_id": "4536", "action": "cleaned", "food": "salad", "time": "5:35 AM"}}
+{"text": "At 4:55 PM, the fries was loaded (Order #1949).", "output": {"order_id": "1949", "action": "loaded", "food": "fries", "time": "4:55 PM"}}
+{"text": "10:16 AM | Order #8728 | burger got loaded.", "output": {"order_id": "8728", "action": "loaded", "food": "burger", "time": "10:16 AM"}}
+{"text": "9:11 AM | Order #4236 | coffee got loaded.", "output": {"order_id": "4236", "action": "loaded", "food": "coffee", "time": "9:11 AM"}}
+{"text": "Order #4536 refilled the salad at 11:41 AM.", "output": {"order_id": "4536", "action": "refilled", "food": "salad", "time": "11:41 AM"}}
+{"text": "Order #2247 -> 9:26 PM -> coffee refilled.", "output": {"order_id": "2247", "action": "refilled", "food": "coffee", "time": "9:26 PM"}}
+{"text": "5:35 AM | Order #2732 | fries got loaded.", "output": {"order_id": "2732", "action": "loaded", "food": "fries", "time": "5:35 AM"}}
+{"text": "Order #7389 -> 1:38 PM -> salad cleaned.", "output": {"order_id": "7389", "action": "cleaned", "food": "salad", "time": "1:38 PM"}}
+{"text": "1:36 PM | Order #3256 | pizza got refilled.", "output": {"order_id": "3256", "action": "refilled", "food": "pizza", "time": "1:36 PM"}}
+{"text": "Order #7356 refilled the burger at 8:58 AM.", "output": {"order_id": "7356", "action": "refilled", "food": "burger", "time": "8:58 AM"}}
+{"text": "At 10:28 PM, the pizza was cleaned (Order #8218).", "output": {"order_id": "8218", "action": "cleaned", "food": "pizza", "time": "10:28 PM"}}
+{"text": "At 5:35 AM, the salad was refilled (Order #1560).", "output": {"order_id": "1560", "action": "refilled", "food": "salad", "time": "5:35 AM"}}
+{"text": "6:40 AM | Order #8549 | fries got refilled.", "output": {"order_id": "8549", "action": "refilled", "food": "fries", "time": "6:40 AM"}}
+{"text": "fries refilled - Order #9160 - 1:36 PM", "output": {"order_id": "9160", "action": "refilled", "food": "fries", "time": "1:36 PM"}}
+{"text": "salad cleaned - Order #9904 - 6:13 AM", "output": {"order_id": "9904", "action": "cleaned", "food": "salad", "time": "6:13 AM"}}
+{"text": "Order #6423 -> 10:11 PM -> coffee cleaned.", "output": {"order_id": "6423", "action": "cleaned", "food": "coffee", "time": "10:11 PM"}}
+{"text": "At 1:26 AM, the soda was refilled (Order #9904).", "output": {"order_id": "9904", "action": "refilled", "food": "soda", "time": "1:26 AM"}}
+{"text": "At 8:58 AM, the pizza was loaded (Order #2105).", "output": {"order_id": "2105", "action": "loaded", "food": "pizza", "time": "8:58 AM"}}
+{"text": "pizza loaded - Order #6256 - 12:26 PM", "output": {"order_id": "6256", "action": "loaded", "food": "pizza", "time": "12:26 PM"}}
+{"text": "At 4:29 PM, the coffee was refilled (Order #5720).", "output": {"order_id": "5720", "action": "refilled", "food": "coffee", "time": "4:29 PM"}}
+{"text": "Order #9358 refilled the coffee at 4:43 AM.", "output": {"order_id": "9358", "action": "refilled", "food": "coffee", "time": "4:43 AM"}}
+{"text": "10:59 PM | Order #3462 | coffee got loaded.", "output": {"order_id": "3462", "action": "loaded", "food": "coffee", "time": "10:59 PM"}}
+{"text": "Order #7862 -> 9:22 PM -> burger loaded.", "output": {"order_id": "7862", "action": "loaded", "food": "burger", "time": "9:22 PM"}}
+{"text": "9:13 PM | Order #1560 | burger got cleaned.", "output": {"order_id": "1560", "action": "cleaned", "food": "burger", "time": "9:13 PM"}}
+{"text": "5:47 AM | Order #8892 | pizza got cleaned.", "output": {"order_id": "8892", "action": "cleaned", "food": "pizza", "time": "5:47 AM"}}
+{"text": "salad cleaned - Order #2732 - 6:40 AM", "output": {"order_id": "2732", "action": "cleaned", "food": "salad", "time": "6:40 AM"}}
+{"text": "At 9:17 PM, the salad was cleaned (Order #2105).", "output": {"order_id": "2105", "action": "cleaned", "food": "salad", "time": "9:17 PM"}}
+{"text": "Order #1795 loaded the fries at 5:35 AM.", "output": {"order_id": "1795", "action": "loaded", "food": "fries", "time": "5:35 AM"}}
+{"text": "Order #2200 loaded the salad at 7:13 PM.", "output": {"order_id": "2200", "action": "loaded", "food": "salad", "time": "7:13 PM"}}
+{"text": "At 12:54 PM, the fries was refilled (Order #9070).", "output": {"order_id": "9070", "action": "refilled", "food": "fries", "time": "12:54 PM"}}
+{"text": "pizza refilled - Order #9653 - 2:34 AM", "output": {"order_id": "9653", "action": "refilled", "food": "pizza", "time": "2:34 AM"}}
+{"text": "Order #1347 refilled the pizza at 9:31 AM.", "output": {"order_id": "1347", "action": "refilled", "food": "pizza", "time": "9:31 AM"}}
+{"text": "Order #4236 cleaned the soda at 4:45 PM.", "output": {"order_id": "4236", "action": "cleaned", "food": "soda", "time": "4:45 PM"}}
+{"text": "6:13 AM | Order #3694 | fries got cleaned.", "output": {"order_id": "3694", "action": "cleaned", "food": "fries", "time": "6:13 AM"}}
+{"text": "Order #1795 cleaned the coffee at 5:35 AM.", "output": {"order_id": "1795", "action": "cleaned", "food": "coffee", "time": "5:35 AM"}}
+{"text": "fries loaded - Order #3496 - 2:23 PM", "output": {"order_id": "3496", "action": "loaded", "food": "fries", "time": "2:23 PM"}}
+{"text": "Order #2200 -> 10:29 AM -> soda loaded.", "output": {"order_id": "2200", "action": "loaded", "food": "soda", "time": "10:29 AM"}}
+{"text": "6:12 PM | Order #9982 | pizza got loaded.", "output": {"order_id": "9982", "action": "loaded", "food": "pizza", "time": "6:12 PM"}}
+{"text": "Order #8549 cleaned the burger at 4:26 AM.", "output": {"order_id": "8549", "action": "cleaned", "food": "burger", "time": "4:26 AM"}}
+{"text": "pizza cleaned - Order #8276 - 1:26 AM", "output": {"order_id": "8276", "action": "cleaned", "food": "pizza", "time": "1:26 AM"}}
+{"text": "Order #4952 loaded the coffee at 8:38 AM.", "output": {"order_id": "4952", "action": "loaded", "food": "coffee", "time": "8:38 AM"}}
+{"text": "At 9:34 AM, the pizza was refilled (Order #4997).", "output": {"order_id": "4997", "action": "refilled", "food": "pizza", "time": "9:34 AM"}}
+{"text": "At 4:44 PM, the coffee was cleaned (Order #6563).", "output": {"order_id": "6563", "action": "cleaned", "food": "coffee", "time": "4:44 PM"}}
+{"text": "burger cleaned - Order #5454 - 11:41 AM", "output": {"order_id": "5454", "action": "cleaned", "food": "burger", "time": "11:41 AM"}}
+{"text": "Order #4997 -> 2:54 PM -> coffee refilled.", "output": {"order_id": "4997", "action": "refilled", "food": "coffee", "time": "2:54 PM"}}
+{"text": "Order #7243 -> 10:11 PM -> coffee cleaned.", "output": {"order_id": "7243", "action": "cleaned", "food": "coffee", "time": "10:11 PM"}}
+{"text": "Order #7484 cleaned the fries at 6:13 AM.", "output": {"order_id": "7484", "action": "cleaned", "food": "fries", "time": "6:13 AM"}}
+{"text": "At 1:36 PM, the soda was cleaned (Order #7282).", "output": {"order_id": "7282", "action": "cleaned", "food": "soda", "time": "1:36 PM"}}
+{"text": "Order #3694 cleaned the soda at 5:13 AM.", "output": {"order_id": "3694", "action": "cleaned", "food": "soda", "time": "5:13 AM"}}
+{"text": "At 4:26 AM, the fries was cleaned (Order #8728).", "output": {"order_id": "8728", "action": "cleaned", "food": "fries", "time": "4:26 AM"}}
+{"text": "coffee refilled - Order #3965 - 4:17 AM", "output": {"order_id": "3965", "action": "refilled", "food": "coffee", "time": "4:17 AM"}}
+{"text": "At 3:55 AM, the soda was refilled (Order #4461).", "output": {"order_id": "4461", "action": "refilled", "food": "soda", "time": "3:55 AM"}}
+{"text": "Order #8202 cleaned the fries at 3:55 AM.", "output": {"order_id": "8202", "action": "cleaned", "food": "fries", "time": "3:55 AM"}}
+{"text": "fries cleaned - Order #2637 - 1:15 PM", "output": {"order_id": "2637", "action": "cleaned", "food": "fries", "time": "1:15 PM"}}
+{"text": "10:26 AM | Order #4269 | fries got loaded.", "output": {"order_id": "4269", "action": "loaded", "food": "fries", "time": "10:26 AM"}}
+{"text": "Order #7138 loaded the soda at 12:24 AM.", "output": {"order_id": "7138", "action": "loaded", "food": "soda", "time": "12:24 AM"}}
+{"text": "Order #7243 cleaned the coffee at 4:45 PM.", "output": {"order_id": "7243", "action": "cleaned", "food": "coffee", "time": "4:45 PM"}}
+{"text": "Order #3722 -> 12:26 PM -> soda refilled.", "output": {"order_id": "3722", "action": "refilled", "food": "soda", "time": "12:26 PM"}}
+{"text": "4:45 PM | Order #1432 | coffee got cleaned.", "output": {"order_id": "1432", "action": "cleaned", "food": "coffee", "time": "4:45 PM"}}
+{"text": "4:17 AM | Order #9982 | burger got refilled.", "output": {"order_id": "9982", "action": "refilled", "food": "burger", "time": "4:17 AM"}}
+{"text": "8:43 AM | Order #4525 | soda got loaded.", "output": {"order_id": "4525", "action": "loaded", "food": "soda", "time": "8:43 AM"}}
+{"text": "Order #9314 -> 10:29 AM -> burger cleaned.", "output": {"order_id": "9314", "action": "cleaned", "food": "burger", "time": "10:29 AM"}}
+{"text": "At 4:53 AM, the burger was refilled (Order #1964).", "output": {"order_id": "1964", "action": "refilled", "food": "burger", "time": "4:53 AM"}}
+{"text": "coffee cleaned - Order #3684 - 1:46 AM", "output": {"order_id": "3684", "action": "cleaned", "food": "coffee", "time": "1:46 AM"}}
+{"text": "At 1:46 AM, the coffee was refilled (Order #4006).", "output": {"order_id": "4006", "action": "refilled", "food": "coffee", "time": "1:46 AM"}}
+{"text": "salad loaded - Order #3347 - 8:37 AM", "output": {"order_id": "3347", "action": "loaded", "food": "salad", "time": "8:37 AM"}}
+{"text": "At 7:33 AM, the burger was refilled (Order #9653).", "output": {"order_id": "9653", "action": "refilled", "food": "burger", "time": "7:33 AM"}}
+{"text": "3:33 PM | Order #1964 | pizza got cleaned.", "output": {"order_id": "1964", "action": "cleaned", "food": "pizza", "time": "3:33 PM"}}
+{"text": "coffee cleaned - Order #8549 - 6:35 AM", "output": {"order_id": "8549", "action": "cleaned", "food": "coffee", "time": "6:35 AM"}}
+{"text": "salad loaded - Order #2163 - 5:46 AM", "output": {"order_id": "2163", "action": "loaded", "food": "salad", "time": "5:46 AM"}}
+{"text": "Order #5222 loaded the pizza at 7:33 AM.", "output": {"order_id": "5222", "action": "loaded", "food": "pizza", "time": "7:33 AM"}}
+{"text": "Order #3392 -> 4:58 PM -> fries loaded.", "output": {"order_id": "3392", "action": "loaded", "food": "fries", "time": "4:58 PM"}}
+{"text": "soda cleaned - Order #9160 - 4:26 AM", "output": {"order_id": "9160", "action": "cleaned", "food": "soda", "time": "4:26 AM"}}
+{"text": "pizza loaded - Order #7243 - 10:39 AM", "output": {"order_id": "7243", "action": "loaded", "food": "pizza", "time": "10:39 AM"}}
+{"text": "Order #2732 cleaned the soda at 10:59 PM.", "output": {"order_id": "2732", "action": "cleaned", "food": "soda", "time": "10:59 PM"}}
+{"text": "Order #3256 -> 8:37 AM -> salad refilled.", "output": {"order_id": "3256", "action": "refilled", "food": "salad", "time": "8:37 AM"}}
+{"text": "burger cleaned - Order #1949 - 8:38 AM", "output": {"order_id": "1949", "action": "cleaned", "food": "burger", "time": "8:38 AM"}}
+{"text": "Order #4611 refilled the pizza at 4:49 AM.", "output": {"order_id": "4611", "action": "refilled", "food": "pizza", "time": "4:49 AM"}}
+{"text": "4:18 AM | Order #8218 | pizza got refilled.", "output": {"order_id": "8218", "action": "refilled", "food": "pizza", "time": "4:18 AM"}}
+{"text": "Order #3097 refilled the coffee at 3:55 AM.", "output": {"order_id": "3097", "action": "refilled", "food": "coffee", "time": "3:55 AM"}}
+{"text": "9:15 AM | Order #5288 | soda got loaded.", "output": {"order_id": "5288", "action": "loaded", "food": "soda", "time": "9:15 AM"}}
+{"text": "Order #1025 refilled the soda at 5:41 AM.", "output": {"order_id": "1025", "action": "refilled", "food": "soda", "time": "5:41 AM"}}
+{"text": "salad cleaned - Order #4269 - 6:48 AM", "output": {"order_id": "4269", "action": "cleaned", "food": "salad", "time": "6:48 AM"}}
+{"text": "10:17 PM | Order #5073 | soda got loaded.", "output": {"order_id": "5073", "action": "loaded", "food": "soda", "time": "10:17 PM"}}
+{"text": "12:32 PM | Order #7138 | salad got refilled.", "output": {"order_id": "7138", "action": "refilled", "food": "salad", "time": "12:32 PM"}}
+{"text": "4:55 PM | Order #1517 | salad got cleaned.", "output": {"order_id": "1517", "action": "cleaned", "food": "salad", "time": "4:55 PM"}}
+{"text": "At 4:59 PM, the coffee was refilled (Order #2973).", "output": {"order_id": "2973", "action": "refilled", "food": "coffee", "time": "4:59 PM"}}
+{"text": "pizza loaded - Order #1347 - 4:18 AM", "output": {"order_id": "1347", "action": "loaded", "food": "pizza", "time": "4:18 AM"}}
+{"text": "At 9:43 PM, the soda was cleaned (Order #3392).", "output": {"order_id": "3392", "action": "cleaned", "food": "soda", "time": "9:43 PM"}}
+{"text": "4:50 AM | Order #4461 | fries got cleaned.", "output": {"order_id": "4461", "action": "cleaned", "food": "fries", "time": "4:50 AM"}}
+{"text": "Order #5222 refilled the coffee at 4:28 AM.", "output": {"order_id": "5222", "action": "refilled", "food": "coffee", "time": "4:28 AM"}}
+{"text": "salad loaded - Order #3392 - 10:11 PM", "output": {"order_id": "3392", "action": "loaded", "food": "salad", "time": "10:11 PM"}}
+{"text": "6:35 AM | Order #4536 | coffee got loaded.", "output": {"order_id": "4536", "action": "loaded", "food": "coffee", "time": "6:35 AM"}}
+{"text": "At 2:34 AM, the salad was loaded (Order #7062).", "output": {"order_id": "7062", "action": "loaded", "food": "salad", "time": "2:34 AM"}}
+{"text": "Order #7282 cleaned the soda at 10:34 AM.", "output": {"order_id": "7282", "action": "cleaned", "food": "soda", "time": "10:34 AM"}}
+{"text": "Order #3392 loaded the soda at 8:38 AM.", "output": {"order_id": "3392", "action": "loaded", "food": "soda", "time": "8:38 AM"}}
+{"text": "Order #7356 -> 9:22 PM -> pizza refilled.", "output": {"order_id": "7356", "action": "refilled", "food": "pizza", "time": "9:22 PM"}}
+{"text": "coffee cleaned - Order #7241 - 10:26 AM", "output": {"order_id": "7241", "action": "cleaned", "food": "coffee", "time": "10:26 AM"}}
+{"text": "Order #4269 refilled the burger at 4:45 PM.", "output": {"order_id": "4269", "action": "refilled", "food": "burger", "time": "4:45 PM"}}
+{"text": "Order #5720 cleaned the fries at 5:47 AM.", "output": {"order_id": "5720", "action": "cleaned", "food": "fries", "time": "5:47 AM"}}
+{"text": "At 9:22 PM, the pizza was cleaned (Order #9160).", "output": {"order_id": "9160", "action": "cleaned", "food": "pizza", "time": "9:22 PM"}}
+{"text": "9:26 PM | Order #6563 | pizza got cleaned.", "output": {"order_id": "6563", "action": "cleaned", "food": "pizza", "time": "9:26 PM"}}
+{"text": "Order #4242 -> 7:44 AM -> coffee refilled.", "output": {"order_id": "4242", "action": "refilled", "food": "coffee", "time": "7:44 AM"}}
+{"text": "burger cleaned - Order #8218 - 10:11 PM", "output": {"order_id": "8218", "action": "cleaned", "food": "burger", "time": "10:11 PM"}}
+{"text": "Order #5087 cleaned the coffee at 10:39 AM.", "output": {"order_id": "5087", "action": "cleaned", "food": "coffee", "time": "10:39 AM"}}
+{"text": "Order #7243 loaded the fries at 9:52 PM.", "output": {"order_id": "7243", "action": "loaded", "food": "fries", "time": "9:52 PM"}}
+{"text": "pizza refilled - Order #1949 - 10:33 PM", "output": {"order_id": "1949", "action": "refilled", "food": "pizza", "time": "10:33 PM"}}
+{"text": "9:13 PM | Order #7302 | soda got refilled.", "output": {"order_id": "7302", "action": "refilled", "food": "soda", "time": "9:13 PM"}}
+{"text": "At 4:26 AM, the salad was loaded (Order #7062).", "output": {"order_id": "7062", "action": "loaded", "food": "salad", "time": "4:26 AM"}}
+{"text": "fries loaded - Order #7062 - 8:53 AM", "output": {"order_id": "7062", "action": "loaded", "food": "fries", "time": "8:53 AM"}}
+{"text": "Order #1329 -> 1:36 PM -> soda refilled.", "output": {"order_id": "1329", "action": "refilled", "food": "soda", "time": "1:36 PM"}}
+{"text": "At 10:16 AM, the soda was cleaned (Order #8892).", "output": {"order_id": "8892", "action": "cleaned", "food": "soda", "time": "10:16 AM"}}
+{"text": "Order #3694 -> 11:55 AM -> soda loaded.", "output": {"order_id": "3694", "action": "loaded", "food": "soda", "time": "11:55 AM"}}
+{"text": "At 1:15 PM, the soda was loaded (Order #2463).", "output": {"order_id": "2463", "action": "loaded", "food": "soda", "time": "1:15 PM"}}
+{"text": "Order #5073 refilled the pizza at 4:37 AM.", "output": {"order_id": "5073", "action": "refilled", "food": "pizza", "time": "4:37 AM"}}
+{"text": "At 1:29 AM, the soda was refilled (Order #4525).", "output": {"order_id": "4525", "action": "refilled", "food": "soda", "time": "1:29 AM"}}
+{"text": "At 6:42 PM, the soda was refilled (Order #2200).", "output": {"order_id": "2200", "action": "refilled", "food": "soda", "time": "6:42 PM"}}
+{"text": "9:15 AM | Order #5454 | burger got cleaned.", "output": {"order_id": "5454", "action": "cleaned", "food": "burger", "time": "9:15 AM"}}
+{"text": "Order #7862 loaded the soda at 2:23 PM.", "output": {"order_id": "7862", "action": "loaded", "food": "soda", "time": "2:23 PM"}}
+{"text": "Order #6758 -> 3:33 PM -> fries refilled.", "output": {"order_id": "6758", "action": "refilled", "food": "fries", "time": "3:33 PM"}}
+{"text": "burger loaded - Order #3804 - 11:24 AM", "output": {"order_id": "3804", "action": "loaded", "food": "burger", "time": "11:24 AM"}}
+{"text": "salad refilled - Order #8276 - 4:17 AM", "output": {"order_id": "8276", "action": "refilled", "food": "salad", "time": "4:17 AM"}}
+{"text": "At 5:42 AM, the salad was loaded (Order #8892).", "output": {"order_id": "8892", "action": "loaded", "food": "salad", "time": "5:42 AM"}}
+{"text": "Order #8540 cleaned the fries at 7:39 AM.", "output": {"order_id": "8540", "action": "cleaned", "food": "fries", "time": "7:39 AM"}}
+{"text": "At 8:43 AM, the salad was cleaned (Order #4611).", "output": {"order_id": "4611", "action": "cleaned", "food": "salad", "time": "8:43 AM"}}
+{"text": "Order #2676 cleaned the burger at 10:17 PM.", "output": {"order_id": "2676", "action": "cleaned", "food": "burger", "time": "10:17 PM"}}
+{"text": "Order #2163 refilled the soda at 1:29 AM.", "output": {"order_id": "2163", "action": "refilled", "food": "soda", "time": "1:29 AM"}}
+{"text": "Order #1795 loaded the pizza at 9:17 PM.", "output": {"order_id": "1795", "action": "loaded", "food": "pizza", "time": "9:17 PM"}}
+{"text": "Order #8202 -> 10:29 AM -> fries loaded.", "output": {"order_id": "8202", "action": "loaded", "food": "fries", "time": "10:29 AM"}}
+{"text": "8:53 AM | Order #7179 | fries got cleaned.", "output": {"order_id": "7179", "action": "cleaned", "food": "fries", "time": "8:53 AM"}}
+{"text": "coffee cleaned - Order #6758 - 7:13 PM", "output": {"order_id": "6758", "action": "cleaned", "food": "coffee", "time": "7:13 PM"}}
+{"text": "Order #7380 -> 10:17 PM -> burger refilled.", "output": {"order_id": "7380", "action": "refilled", "food": "burger", "time": "10:17 PM"}}
+{"text": "At 4:28 AM, the pizza was refilled (Order #9160).", "output": {"order_id": "9160", "action": "refilled", "food": "pizza", "time": "4:28 AM"}}
+{"text": "Order #7862 loaded the pizza at 10:34 AM.", "output": {"order_id": "7862", "action": "loaded", "food": "pizza", "time": "10:34 AM"}}
+{"text": "1:36 PM | Order #6563 | coffee got refilled.", "output": {"order_id": "6563", "action": "refilled", "food": "coffee", "time": "1:36 PM"}}
+{"text": "At 8:58 AM, the fries was loaded (Order #5288).", "output": {"order_id": "5288", "action": "loaded", "food": "fries", "time": "8:58 AM"}}
+{"text": "At 6:18 PM, the fries was cleaned (Order #2200).", "output": {"order_id": "2200", "action": "cleaned", "food": "fries", "time": "6:18 PM"}}
+{"text": "4:28 AM | Order #6918 | coffee got cleaned.", "output": {"order_id": "6918", "action": "cleaned", "food": "coffee", "time": "4:28 AM"}}
+{"text": "Order #7162 -> 4:45 PM -> coffee refilled.", "output": {"order_id": "7162", "action": "refilled", "food": "coffee", "time": "4:45 PM"}}
+{"text": "4:58 PM | Order #5720 | fries got loaded.", "output": {"order_id": "5720", "action": "loaded", "food": "fries", "time": "4:58 PM"}}
+{"text": "Order #7138 -> 12:15 AM -> burger refilled.", "output": {"order_id": "7138", "action": "refilled", "food": "burger", "time": "12:15 AM"}}
+{"text": "At 6:48 AM, the soda was loaded (Order #9155).", "output": {"order_id": "9155", "action": "loaded", "food": "soda", "time": "6:48 AM"}}
+{"text": "Order #8310 loaded the salad at 8:53 AM.", "output": {"order_id": "8310", "action": "loaded", "food": "salad", "time": "8:53 AM"}}
+{"text": "Order #3209 -> 10:39 AM -> soda loaded.", "output": {"order_id": "3209", "action": "loaded", "food": "soda", "time": "10:39 AM"}}
+{"text": "burger cleaned - Order #7138 - 3:30 AM", "output": {"order_id": "7138", "action": "cleaned", "food": "burger", "time": "3:30 AM"}}
+{"text": "Order #2247 -> 5:18 AM -> coffee refilled.", "output": {"order_id": "2247", "action": "refilled", "food": "coffee", "time": "5:18 AM"}}
+{"text": "Order #6628 -> 6:18 PM -> coffee loaded.", "output": {"order_id": "6628", "action": "loaded", "food": "coffee", "time": "6:18 PM"}}
+{"text": "Order #5222 loaded the fries at 10:39 AM.", "output": {"order_id": "5222", "action": "loaded", "food": "fries", "time": "10:39 AM"}}
+{"text": "Order #5720 -> 10:17 PM -> coffee loaded.", "output": {"order_id": "5720", "action": "loaded", "food": "coffee", "time": "10:17 PM"}}
+{"text": "At 11:55 AM, the pizza was cleaned (Order #2637).", "output": {"order_id": "2637", "action": "cleaned", "food": "pizza", "time": "11:55 AM"}}
+{"text": "Order #3713 refilled the pizza at 5:47 PM.", "output": {"order_id": "3713", "action": "refilled", "food": "pizza", "time": "5:47 PM"}}
+{"text": "At 7:13 PM, the coffee was refilled (Order #3677).", "output": {"order_id": "3677", "action": "refilled", "food": "coffee", "time": "7:13 PM"}}
+{"text": "At 10:16 AM, the soda was loaded (Order #3392).", "output": {"order_id": "3392", "action": "loaded", "food": "soda", "time": "10:16 AM"}}
+{"text": "Order #1025 -> 12:26 PM -> coffee refilled.", "output": {"order_id": "1025", "action": "refilled", "food": "coffee", "time": "12:26 PM"}}
+{"text": "At 4:28 AM, the fries was cleaned (Order #4269).", "output": {"order_id": "4269", "action": "cleaned", "food": "fries", "time": "4:28 AM"}}
+{"text": "Order #9314 -> 4:58 PM -> burger cleaned.", "output": {"order_id": "9314", "action": "cleaned", "food": "burger", "time": "4:58 PM"}}
+{"text": "At 12:24 AM, the coffee was refilled (Order #4242).", "output": {"order_id": "4242", "action": "refilled", "food": "coffee", "time": "12:24 AM"}}
+{"text": "5:47 PM | Order #6918 | coffee got loaded.", "output": {"order_id": "6918", "action": "loaded", "food": "coffee", "time": "5:47 PM"}}
+{"text": "Order #4322 -> 6:32 AM -> salad refilled.", "output": {"order_id": "4322", "action": "refilled", "food": "salad", "time": "6:32 AM"}}
+{"text": "burger cleaned - Order #3097 - 3:55 AM", "output": {"order_id": "3097", "action": "cleaned", "food": "burger", "time": "3:55 AM"}}
+{"text": "Order #9160 -> 5:47 AM -> burger cleaned.", "output": {"order_id": "9160", "action": "cleaned", "food": "burger", "time": "5:47 AM"}}
+{"text": "At 6:53 PM, the coffee was loaded (Order #3677).", "output": {"order_id": "3677", "action": "loaded", "food": "coffee", "time": "6:53 PM"}}
+{"text": "Order #7179 loaded the pizza at 4:44 PM.", "output": {"order_id": "7179", "action": "loaded", "food": "pizza", "time": "4:44 PM"}}
+{"text": "Order #1347 cleaned the coffee at 12:54 PM.", "output": {"order_id": "1347", "action": "cleaned", "food": "coffee", "time": "12:54 PM"}}
+{"text": "At 10:59 PM, the coffee was cleaned (Order #9358).", "output": {"order_id": "9358", "action": "cleaned", "food": "coffee", "time": "10:59 PM"}}
+{"text": "coffee refilled - Order #6918 - 6:32 AM", "output": {"order_id": "6918", "action": "refilled", "food": "coffee", "time": "6:32 AM"}}
+{"text": "fries cleaned - Order #7484 - 1:29 AM", "output": {"order_id": "7484", "action": "cleaned", "food": "fries", "time": "1:29 AM"}}
+{"text": "Order #8202 refilled the salad at 10:16 AM.", "output": {"order_id": "8202", "action": "refilled", "food": "salad", "time": "10:16 AM"}}
+{"text": "Order #1560 cleaned the coffee at 10:28 PM.", "output": {"order_id": "1560", "action": "cleaned", "food": "coffee", "time": "10:28 PM"}}
+{"text": "Order #9314 -> 1:26 AM -> pizza loaded.", "output": {"order_id": "9314", "action": "loaded", "food": "pizza", "time": "1:26 AM"}}
+{"text": "At 7:41 AM, the burger was loaded (Order #9160).", "output": {"order_id": "9160", "action": "loaded", "food": "burger", "time": "7:41 AM"}}
+{"text": "fries loaded - Order #3323 - 5:18 AM", "output": {"order_id": "3323", "action": "loaded", "food": "fries", "time": "5:18 AM"}}
+{"text": "Order #9155 refilled the coffee at 10:17 PM.", "output": {"order_id": "9155", "action": "refilled", "food": "coffee", "time": "10:17 PM"}}
+{"text": "Order #7862 -> 1:46 AM -> burger loaded.", "output": {"order_id": "7862", "action": "loaded", "food": "burger", "time": "1:46 AM"}}
+{"text": "At 10:29 AM, the fries was refilled (Order #5087).", "output": {"order_id": "5087", "action": "refilled", "food": "fries", "time": "10:29 AM"}}
+{"text": "At 5:47 AM, the coffee was refilled (Order #7241).", "output": {"order_id": "7241", "action": "refilled", "food": "coffee", "time": "5:47 AM"}}
+{"text": "6:18 PM | Order #9314 | salad got refilled.", "output": {"order_id": "9314", "action": "refilled", "food": "salad", "time": "6:18 PM"}}
+{"text": "At 6:13 AM, the fries was loaded (Order #3677).", "output": {"order_id": "3677", "action": "loaded", "food": "fries", "time": "6:13 AM"}}
+{"text": "7:44 AM | Order #7179 | salad got refilled.", "output": {"order_id": "7179", "action": "refilled", "food": "salad", "time": "7:44 AM"}}
+{"text": "Order #3323 -> 7:31 AM -> burger loaded.", "output": {"order_id": "3323", "action": "loaded", "food": "burger", "time": "7:31 AM"}}
+{"text": "4:18 AM | Order #4997 | coffee got refilled.", "output": {"order_id": "4997", "action": "refilled", "food": "coffee", "time": "4:18 AM"}}
+{"text": "Order #9982 -> 7:33 AM -> burger loaded.", "output": {"order_id": "9982", "action": "loaded", "food": "burger", "time": "7:33 AM"}}
+{"text": "At 5:49 PM, the soda was refilled (Order #6918).", "output": {"order_id": "6918", "action": "refilled", "food": "soda", "time": "5:49 PM"}}
+{"text": "At 7:31 AM, the pizza was loaded (Order #4006).", "output": {"order_id": "4006", "action": "loaded", "food": "pizza", "time": "7:31 AM"}}
+{"text": "7:23 PM | Order #7389 | burger got cleaned.", "output": {"order_id": "7389", "action": "cleaned", "food": "burger", "time": "7:23 PM"}}
+{"text": "4:49 AM | Order #7114 | fries got loaded.", "output": {"order_id": "7114", "action": "loaded", "food": "fries", "time": "4:49 AM"}}
+{"text": "Order #3462 -> 8:43 AM -> coffee refilled.", "output": {"order_id": "3462", "action": "refilled", "food": "coffee", "time": "8:43 AM"}}
+{"text": "At 2:34 AM, the fries was refilled (Order #2247).", "output": {"order_id": "2247", "action": "refilled", "food": "fries", "time": "2:34 AM"}}
+{"text": "At 6:13 AM, the fries was cleaned (Order #6918).", "output": {"order_id": "6918", "action": "cleaned", "food": "fries", "time": "6:13 AM"}}
+{"text": "Order #8892 -> 12:24 AM -> pizza loaded.", "output": {"order_id": "8892", "action": "loaded", "food": "pizza", "time": "12:24 AM"}}
+{"text": "Order #3392 -> 7:31 AM -> soda loaded.", "output": {"order_id": "3392", "action": "loaded", "food": "soda", "time": "7:31 AM"}}
+{"text": "Order #1795 -> 7:13 PM -> fries cleaned.", "output": {"order_id": "1795", "action": "cleaned", "food": "fries", "time": "7:13 PM"}}
+{"text": "soda loaded - Order #7138 - 10:11 PM", "output": {"order_id": "7138", "action": "loaded", "food": "soda", "time": "10:11 PM"}}
+{"text": "Order #2105 -> 5:42 AM -> burger cleaned.", "output": {"order_id": "2105", "action": "cleaned", "food": "burger", "time": "5:42 AM"}}
+{"text": "At 10:49 AM, the soda was loaded (Order #7138).", "output": {"order_id": "7138", "action": "loaded", "food": "soda", "time": "10:49 AM"}}
+{"text": "10:17 PM | Order #7179 | soda got refilled.", "output": {"order_id": "7179", "action": "refilled", "food": "soda", "time": "10:17 PM"}}
+{"text": "At 12:58 AM, the fries was refilled (Order #8935).", "output": {"order_id": "8935", "action": "refilled", "food": "fries", "time": "12:58 AM"}}
+{"text": "At 2:54 PM, the pizza was loaded (Order #3722).", "output": {"order_id": "3722", "action": "loaded", "food": "pizza", "time": "2:54 PM"}}
+{"text": "9:13 PM | Order #7241 | coffee got loaded.", "output": {"order_id": "7241", "action": "loaded", "food": "coffee", "time": "9:13 PM"}}
+{"text": "Order #3965 -> 11:24 AM -> burger cleaned.", "output": {"order_id": "3965", "action": "cleaned", "food": "burger", "time": "11:24 AM"}}
+{"text": "Order #9070 -> 9:52 PM -> soda refilled.", "output": {"order_id": "9070", "action": "refilled", "food": "soda", "time": "9:52 PM"}}
+{"text": "Order #7389 cleaned the soda at 4:26 AM.", "output": {"order_id": "7389", "action": "cleaned", "food": "soda", "time": "4:26 AM"}}
+{"text": "Order #3496 refilled the fries at 10:34 AM.", "output": {"order_id": "3496", "action": "refilled", "food": "fries", "time": "10:34 AM"}}
+{"text": "Order #4242 -> 9:26 PM -> fries refilled.", "output": {"order_id": "4242", "action": "refilled", "food": "fries", "time": "9:26 PM"}}
+{"text": "Order #8218 refilled the salad at 11:55 AM.", "output": {"order_id": "8218", "action": "refilled", "food": "salad", "time": "11:55 AM"}}
+{"text": "burger refilled - Order #7241 - 1:12 AM", "output": {"order_id": "7241", "action": "refilled", "food": "burger", "time": "1:12 AM"}}
+{"text": "soda loaded - Order #6563 - 1:36 PM", "output": {"order_id": "6563", "action": "loaded", "food": "soda", "time": "1:36 PM"}}
+{"text": "9:26 PM | Order #7243 | soda got refilled.", "output": {"order_id": "7243", "action": "refilled", "food": "soda", "time": "9:26 PM"}}
+{"text": "Order #4242 -> 10:34 AM -> salad refilled.", "output": {"order_id": "4242", "action": "refilled", "food": "salad", "time": "10:34 AM"}}
+{"text": "Order #3713 -> 5:47 AM -> burger loaded.", "output": {"order_id": "3713", "action": "loaded", "food": "burger", "time": "5:47 AM"}}
+{"text": "Order #4236 -> 9:57 AM -> fries refilled.", "output": {"order_id": "4236", "action": "refilled", "food": "fries", "time": "9:57 AM"}}
+{"text": "Order #5222 -> 4:53 AM -> pizza loaded.", "output": {"order_id": "5222", "action": "loaded", "food": "pizza", "time": "4:53 AM"}}
+{"text": "Order #8935 -> 12:32 PM -> pizza loaded.", "output": {"order_id": "8935", "action": "loaded", "food": "pizza", "time": "12:32 PM"}}
+{"text": "10:16 AM | Order #2676 | burger got cleaned.", "output": {"order_id": "2676", "action": "cleaned", "food": "burger", "time": "10:16 AM"}}
+{"text": "Order #6509 refilled the burger at 4:37 AM.", "output": {"order_id": "6509", "action": "refilled", "food": "burger", "time": "4:37 AM"}}
+{"text": "Order #6563 cleaned the salad at 10:33 PM.", "output": {"order_id": "6563", "action": "cleaned", "food": "salad", "time": "10:33 PM"}}
+{"text": "12:11 AM | Order #2676 | soda got loaded.", "output": {"order_id": "2676", "action": "loaded", "food": "soda", "time": "12:11 AM"}}
+{"text": "At 5:47 AM, the pizza was cleaned (Order #7389).", "output": {"order_id": "7389", "action": "cleaned", "food": "pizza", "time": "5:47 AM"}}
+{"text": "Order #7179 -> 9:22 PM -> salad loaded.", "output": {"order_id": "7179", "action": "loaded", "food": "salad", "time": "9:22 PM"}}
+{"text": "At 2:23 PM, the coffee was loaded (Order #7380).", "output": {"order_id": "7380", "action": "loaded", "food": "coffee", "time": "2:23 PM"}}
