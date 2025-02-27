@@ -42,8 +42,8 @@ with extracted information.
 
 ```bash
 kitchen_orders/
-│── data/                # (Optional) Folder for datasets
-│── results/             # (Optional) Folder for results
+│── data/               l) Folder for datasets
+│── results/            al) Folder for results
 │── scripts/             # Contains all scripts
 │   │── preprocessing.py  # Data preprocessing & REGEX filtering
 │   │── training.py       # Fine-tuning BERT model
