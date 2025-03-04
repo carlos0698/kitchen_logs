@@ -1,48 +1,31 @@
-Kitchen Logs - BERT Model for Kitchen/Restaurant Log Standardization
+# Kitchen Logs - BERT Model for Kitchen/Restaurant Log Standardization
 
-📝 Project Overview
+## 📝 Project Overview
+This project uses BERT (Bidirectional Encoder Representations from Transformers) to extract structured information from unstructured kitchen logs in a restaurant setting. The goal is to process logs (e.g., "Order #123 refilled pasta at 12:30 PM") and output key entities like order IDs, food items, actions, and times in JSON format, with a FastAPI-based API for real-time processing.
 
-This project leverages BERT (Bidirectional Encoder Representations from 
-Transformers) to detect and standardize logs in a kitchen or restaurant 
-environment. The goal is to make kitchen logs and commands more uniform 
-and structured.
+## 🔍 Approach
+### Why BERT?
+BERT, a pre-trained NLP model by Google, excels at understanding bidirectional context. We fine-tune it on a synthetic dataset for Named Entity Recognition (NER), adapting it efficiently to kitchen logs without training from scratch.
 
-🔍 Why BERT?
-BERT is a powerful pre-trained NLP model developed by Google. Instead of 
-training a model from scratch, we perform fine-tuning on a synthetic 
-dataset tailored for kitchen log detection. This approach optimizes 
-computational resources while effectively adapting BERT to our specific 
-task.
+### Data Processing Pipeline
+1. **Preprocessing with REGEX**:  
+   Regular expressions extract order IDs (e.g., "Order #123" → "123") and timestamps (e.g., "12:30 PM") to lighten BERT's load.
 
-📂 Data Processing Pipeline
+2. **Fine-Tuning BERT for NER**:  
+   We fine-tune `bert-base-uncased` on a synthetic JSONL dataset (`kitchen_logs.jsonl`) to label entities: "ORDER", "ACTION", "FOOD", "TIME". Training uses 10 epochs and AdamW optimizer.
 
-1️⃣ Preprocessing with REGEX:
+3. **Inference with REGEX + BERT**:  
+   - REGEX extracts `order_id` and `time` using patterns (`Order\s+#?\d+`, `\d{1,2}:\d{2} (?:AM|PM)`).
+   - BERT identifies `food` and `action` from tokenized text.
+   - Results are merged into a JSON structure.
 
-We use Regular Expressions (REGEX) to filter and extract basic information 
-(e.g., order IDs, timestamps) before feeding data into BERT.
-This step improves efficiency by reducing unnecessary processing.
+4. **Testing**:  
+   Tested on a synthetic dataset (`synthetic_kitchen_logs_disordered.txt`) to validate extraction accuracy.
 
-2️⃣ Fine-Tuning BERT on Synthetic Data:
+5. **Deployment with FastAPI**:  
+   A REST API (`api.py`) accepts `.txt` file uploads, processes logs line-by-line, and returns JSON responses in real-time.
 
-A synthetic dataset was created to train BERT, simulating real kitchen 
-logs.
-The fine-tuning process helps BERT recognize food items, actions, and 
-commands commonly used in a restaurant setting.
-
-3️⃣ Testing with Synthetic Data:
-
-Another synthetic dataset was generated to test model performance and 
-accuracy.
-This ensures the model properly extracts and structures kitchen log 
-information.
-
-4️⃣ Deploying the Model with FastAPI:
-
-A FastAPI-based REST API was implemented to provide an easy-to-use 
-interface for processing kitchen logs.
-Users can upload .txt files, and the API returns a structured JSON output 
-with extracted information.
-
+   
 ```bash
 kitchen_orders/
 │── data/               l) Folder for datasets
